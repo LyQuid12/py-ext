@@ -1,3 +1,6 @@
+from .clear import *
+
+
 __title__ = "py-ext"
 __version__ = "1.0"
 __authors__ = ["LyQuid", "EterNomm"]
