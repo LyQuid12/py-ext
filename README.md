@@ -1,2 +1,2 @@
 # py-ext
-Just a Python extension to help make your project easier
+Just a Python extension to help make my project easier
