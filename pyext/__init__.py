@@ -1,5 +1,5 @@
 from .clear import *
-from .SlowPrint import *
+from .slowprint import *
 
 __title__ = "py-ext"
 __version__ = "1.0"
