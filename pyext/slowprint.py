@@ -2,7 +2,7 @@ import sys
 from time import sleep
 
 
-class SlowPrint:
+class slowprint:
     def __init__(self, text, delay:int=0.5):
         r"""
         A class that implements the server side
